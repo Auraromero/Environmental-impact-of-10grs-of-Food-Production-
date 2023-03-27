@@ -1,4 +1,4 @@
-# Environmental-impact-of-10grs-of-Food-Production-
+# Environmental-impact-of-100grs-of-Food-Production-
 
 The purpose of this project is to evaluate the environmental impact of producing 10 grams of protein from various sources of food production. The impact of food production on the environment is a growing concern, and this project aims to shed light on the extent of this impact. In this project, we will be using R programming to clean, analyze, and plot data.
 
